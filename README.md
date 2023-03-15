@@ -4,11 +4,13 @@ A hotel chain “Smith Hotels” with properties including full-service hotels a
 # Experiment Design
 Here’s an overview of the experiment that was conducted. In this scenario, a before-after design of experiment was followed. To determine the app’s efficacy, the organization ran a live test with a beta version of the app.
 A subset of customers who had been enrolled in the loyalty program run by the hotel chain for at least one year was selected at random and assigned to one of two groups - Control and Treatment, and the experiment was conducted as follows:
+
 Control Group
 - Number of customers: 2000 
 - Before: At the beginning of the experiment, the spending behavior of all the customers in the control group was recorded for one-year
 - Treatment: No changes were introduced to the control group
 - After: The control group was tracked for another year, and their spending behaviors were recorded.
+
 Treatment Group
 - Number of customers: 2000 
 - Before: At the beginning of the experiment, the spending behavior of all the customers in the treatment group was recorded for one-year
