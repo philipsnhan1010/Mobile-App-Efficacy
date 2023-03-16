@@ -37,6 +37,8 @@ To make an appropriate decision about launching the app, the hotel chain’s man
 ![image](https://user-images.githubusercontent.com/43742200/225488668-1c2dac14-1675-4e7d-b1cb-7229edcdb7a1.png)
 
 ## Part II: Exploratory Data Analysis
-Univariate Analysis I: Data summary of customers’ characteristics: Use appropriate tables for the summary statistics and bar charts and describe the customers’ characteristics.
+### Univariate Analysis I: Data summary of customers’ characteristics: Use appropriate tables for the summary statistics and bar charts and describe the customers’ characteristics.
+-	Demographics: Gender, age, nationality
+-	Loyalty membership and tenure with the hotel chain (in months)
 
 
