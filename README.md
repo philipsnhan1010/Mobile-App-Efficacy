@@ -29,3 +29,8 @@ To make an appropriate decision about launching the app, the hotel chain’s man
 
 ![image](https://user-images.githubusercontent.com/43742200/225185465-a694211f-5e2b-4bdf-8943-50a3e30bc108.png)
 
+Project Tasks
+## Part I - Data Preparation and Wrangling: Data Loading and Preparation: Load the data set and check the following:
+-	Are there any missing values?
+-	Are the datatypes in the correct format?
+
