@@ -42,3 +42,11 @@ To make an appropriate decision about launching the app, the hotel chain’s man
 -	Loyalty membership and tenure with the hotel chain (in months)
 
 
+### Univariate Analysis II: Data summary of customers’ purchase behavior: Use appropriate tables for the summary statistics and graphs and describe customers’ purchase behavior.
+- Amount spent [Spending]
+- Number of bookings [NumBookings] 
+
+### Multivariate Analysis: 
+- Construct relevant pivot tables, bar charts, and scatterplots to get a preliminary understanding of the relationship between customers’ characteristics and their purchase behavior.
+- Generate a table of the correlations of all numerical variables of the data set.
+- Determine whether there is a statistically significant difference between the average spending of men and women (at a 5% significance level)? Conduct an appropriate hypothesis test to determine whether there is a difference in means. Construct a 95% confidence interval for the difference in means.
